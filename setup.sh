@@ -96,6 +96,7 @@ pips=(
   glances
   ohmu
   pythonpy
+  awscli
 )
 
 npms=(
