@@ -43,6 +43,7 @@ brews=(
 
 casks=(
   adobe-acrobat-reader
+  aerial
   amazon-drive
   atom
   bartender
